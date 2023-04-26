@@ -30,6 +30,21 @@ To run tests, run the following command
 
 ```apt update && apt upgrade -y
 pkg install git
+
 pkg install python
+
+pip install colorama
+
+pip install bs4
+
+pip install requests
+
+git clone https://github.com/DEVIL-MAY-CRY-444/ASCII-M-BANNER
+
+cd ASCII-M-BANNER
+
+python Ascii.py
+
+
 
 ```
