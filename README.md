@@ -1,7 +1,7 @@
 
 # ASCII-M-BANNER
 
-This tool is used for make ascii banner easily on your termux or terminal it useful for script maker's enjoy and always give a start!.
+This tool is used for making ascii banner easily on your termux or terminal it useful for script maker's enjoy and always give a start!.
 
 
 ## Screenshots
